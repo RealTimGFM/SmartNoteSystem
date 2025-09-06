@@ -36,7 +36,7 @@ streamlit run app.py
 ---
 
 ## 🧭 Project Structure
-
+```
 SmartNoteSystem/
 ├─ app.py                     # Streamlit UI
 ├─ cli.py                     # Terminal search tool
@@ -51,7 +51,7 @@ SmartNoteSystem/
 ├─ models/                    # optional saved embeddings
 ├─ requirements.txt
 └─ README.md
-
+```
 ---
 
 ## ✍️ Using the App
