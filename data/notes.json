@@ -1,0 +1,64 @@
+[
+  {
+    "content": "Python lists are mutable sequences used to store collections of items. They can contain mixed types and are defined using square brackets.",
+    "category": "Python Basics",
+    "tags": [
+      "data structures",
+      "lists"
+    ]
+  },
+  {
+    "content": "Lists in Python can be modified after creation. Common operations include append(), extend(), and insert().",
+    "category": "Python Basics",
+    "tags": [
+      "lists",
+      "methods"
+    ]
+  },
+  {
+    "content": "Data structures are fundamental building blocks in programming. They help organize and store data efficiently.",
+    "category": "CS Theory",
+    "tags": [
+      "data structures"
+    ]
+  },
+  {
+    "content": "Arrays in NumPy provide efficient storage and operations for numerical data. They are widely used in scientific computing.",
+    "category": "NumPy",
+    "tags": [
+      "arrays",
+      "numerical"
+    ]
+  },
+  {
+    "content": "Object-oriented programming in Python uses classes and objects. Classes define the structure and behavior of objects.",
+    "category": "OOP",
+    "tags": [
+      "classes",
+      "objects"
+    ]
+  },
+  {
+    "content": "The pandas library is built on top of NumPy and provides powerful data manipulation tools through DataFrames.",
+    "category": "Pandas",
+    "tags": [
+      "dataframes",
+      "analysis"
+    ]
+  },
+  {
+    "content": "Version control with Git helps track changes in code. Common commands include commit, push, and pull.",
+    "category": "Tooling",
+    "tags": [
+      "git",
+      "version control"
+    ]
+  },
+  {
+    "content": "Python functions are defined using the def keyword. They can accept parameters and return values.",
+    "category": "Python Basics",
+    "tags": [
+      "functions"
+    ]
+  }
+]
